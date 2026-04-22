@@ -8,4 +8,4 @@ Here are some of my cool projects!
 ![Slide 3](./assets/Slide3.png)
 ![Slide 4](./assets/Slide4.png)
 
-PDF version [here](Portfolio/assets/DesignEngineeringPortfolio-OJB 2025-6.pdf)
+PDF version [here](./assets/DesignEngineeringPortfolio-OJB 2025-6.pdf)
