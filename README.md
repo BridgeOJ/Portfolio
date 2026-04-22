@@ -3,5 +3,5 @@ Have a look at some of my cool projects [here](Design Engineering Portfolio - OJ
 
 ## Portfolio Preview
 
-![Slide 1](./assets/slide 1.png)
-![Slide 2](./assets/slide 2.png)
+![Slide 1](./assets/slide1.png)
+![Slide 2](./assets/slide2.png)
