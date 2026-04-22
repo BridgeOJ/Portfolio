@@ -1,5 +1,7 @@
 # Portfolio
 Have a look at some of my cool projects [here](Design Engineering Portfolio - OJB 2025-6.pdf)
 
+## Portfolio Preview
 
-<a href="(Portfolio/Design Engineering Portfolio - OJB 2025-6.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+![Slide 1](./assets/slide1.png)
+![Slide 2](./assets/slide2.png)
