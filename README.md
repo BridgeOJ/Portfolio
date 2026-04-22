@@ -1,5 +1,5 @@
 # Portfolio
-Have a look at some of my cool projects:
+Here are some of the cool projects I've done:
 
 ## Portfolio Preview
 
